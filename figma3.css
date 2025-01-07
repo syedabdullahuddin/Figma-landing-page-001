@@ -1,0 +1,79 @@
+.logo{
+    margin-top:50px;
+    margin-left:100px;
+}
+.table{
+    margin-left: 750px;
+    margin-top: -55px;
+    font-size:25px;
+
+}
+.button{
+    margin-left: 1650px;
+    padding:20px;
+    margin-top:-75px;
+    width:128px;
+    font-size:25px;  
+}
+.pic{
+    margin-left:1250px;
+    margin-top:50px;
+    height:550px;
+}
+.para{
+    font-family: 'Space Grotesk', sans-serif;
+    font-size:1%;
+}
+.subpara{
+    font-family: 'Space Grotesk', sans-serif;
+    margin-left:100px;
+}
+.button2{
+    font-family: 'Space Grotesk', sans-serif;
+    background-color: rgba(rgb(25,26,35,1));
+    margin-left: 98px;
+}
+.logo2{
+    width:1200px;
+    margin-top:-90px;
+    margin-left:220px;
+    position: relative;
+    mix-blend-mode: Luminosity;
+}
+.buttonb{
+    margin-left:10%;
+    margin-top:50px;
+    font-family: 'Space Grotesk', sans-serif;
+}
+.parm{
+    font-family: 'Space Grotesk', sans-serif;
+    display: inline-block;
+    line-height:22.97px;
+    margin-left:400px;
+    margin-top:-70px;
+    font-size: 18px;
+}
+.box{
+    position: relative;
+    background-color: bisque;
+    height:310px;
+    font-family: 'Space Grotesk', sans-serif;
+    width:600px;
+    border-radius: 10px;
+    margin-top: -220px;
+    margin-left:200px;
+    display: inline-block;
+
+} 
+.box1{
+    background-color: rgba(147, 211, 28, 0.822);
+    height:310px;
+    width:600px;
+    border-radius: 10px;
+    margin-top: 120px;
+    margin-left:200px;
+    display: inline-block;
+}
+h3{
+    margin-top: -20px;
+}
